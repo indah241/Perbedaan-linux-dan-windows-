@@ -8,5 +8,5 @@ Selain itu, sistem operasi ini juga biasanya digunakan pada beberapa alat elektr
 
 Windows adalah sistem operasi berbasis antarmuka grafis (Graphical User Interface atau GUI) yang dikembangkan oleh Microsoft. Sistem operasi ini memungkinkan pengguna untuk menjalankan berbagai program, mengelola file, dan berinteraksi dengan perangkat keras komputer dengan lebih mudah melalui ikon, tombol, dan jendela yang dapat diklik, dibandingkan dengan sistem berbasis perintah (command-line).
 # Perbedaan Linux dan Windows
-## Linux
+
 
